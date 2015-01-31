@@ -2863,6 +2863,10 @@
   <java-symbol type="integer" name="config_sms_authorization_timeout_ms" />
   <java-symbol type="bool" name="config_sms_authorization_enabled" />
 
+  <!-- User icon -->
+  <java-symbol type="dimen" name="global_actions_avatar_size" />
+  <java-symbol type="string" name="global_action_current_user" />
+
   <!-- Proximity check on screen on -->
   <java-symbol type="bool" name="config_proximityCheckOnWake" />
 
